@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["CFStringCreateWithBytes",""],["CFStringCreateWithBytesNoCopy",""],["CFStringGetBytes",""],["CFStringGetCStringPtr",""],["CFStringGetLength",""],["CFStringGetTypeID",""]],"static":[["kCFStringEncodingUTF8",""]],"type":[["CFStringCompareFlags",""],["CFStringEncoding",""],["CFStringEncodings",""],["CFStringRef",""],["UniChar",""]]});

@@ -1,1 +1,0 @@
-initSidebarItems({"trait":[["Message","Types that may be sent Objective-C messages. For example: objects, classes, and blocks."],["MessageArguments","Types that may be used as the arguments of an Objective-C message."]]});

@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Encoding","An Objective-C type encoding."]],"trait":[["Encode","Types that have an Objective-C type encoding."]]});
